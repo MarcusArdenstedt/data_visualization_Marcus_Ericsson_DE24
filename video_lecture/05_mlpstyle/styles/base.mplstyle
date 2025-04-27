@@ -1,0 +1,50 @@
+
+### FIGURE
+figure.facecolor: whitesmoke
+figure.dpi: 300
+figure.figsize: 10,6
+figure.constrained_layout.use: False
+
+
+
+### lines
+lines.linewidth: 3
+
+
+### FONTS
+# font.family: sans-serif
+# font.sans-serif: Avenir, 'Avenir, Next LT PRO', Ariel, Helvetica, sans-serif
+# font.weigth: bold
+font.size: 10
+
+
+
+
+### Label AND TICK COLORS
+xtick.color: "#4A606C"
+ytick.color: "#4A606C"
+axes.titlecolor: "#4A606C"
+axes.labelcolor: "#4A606C"
+
+
+### TICKS
+xtick.bottom: True
+ytick.left: False
+
+
+### TICK PADDING
+xtick.major.pad: 5
+ytick.major.pad: 10
+ytick.minor.pad: 4
+xtick.minor.pad: 4
+axes.labelpad: 7
+
+
+### Axes
+axes.spines.right: False
+axes.spines.top: False
+
+axes.labelweight: "bold"
+
+axes.edgecolor: "#cccccc"
+
