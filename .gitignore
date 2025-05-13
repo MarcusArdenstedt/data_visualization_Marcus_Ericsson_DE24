@@ -178,3 +178,4 @@ cython_debug/
 interactive_figures
 settings.json 
 
+.vscode

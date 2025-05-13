@@ -1,0 +1,57 @@
+Company,Industry,Revenue (billion $),Profits (billion $),Assets (billion $),Market value (billion $),City,Country,Top company in Nordic,Forbes top 2000 company
+Equinor,Oil and gas,111.6,13.1,127.8,81.4,Stavanger,Norway,1,41
+Nordea,Banking,21.7,3.4,933.8,39.7,Helsinki,Finland,2,135
+A.P. Møller-Maersk,Transportation,56.1,2.6,69.8,33.7,Copenhagen,Denmark,3,152
+Volvo,Automotive,45.0,2.6,49.7,30.2,Gothenburg,Sweden,4,183
+Ericsson,Telecommunication,32.9,1.8,19.0,19.4,Stockholm,Sweden,5,239
+DNB,Diversified financial,11.6,2.2,356.1,21.1,Oslo,Norway,6,260
+SEB,Banking,13.5,1.6,344.5,19.2,Stockholm,Sweden,7,280
+Handelsbanken,Banking,10.9,1.8,358.0,23.2,Stockholm,Sweden,8,282
+Telia,Telecommunications,15.1,2.7,35.9,30.0,Stockholm,Sweden,9,294
+Swedbank,Banking,10.3,1.7,270.8,19.1,Stockholm,Sweden,10,311
+Telenor,Telecommunication,16.4,1.3,27.8,33.9,Fornebu,Norway,11,353
+Fortum,Utilities,3.9,0.9,29.7,16.8,Espoo,Finland,12,432
+Novo Nordisk,Health care,11.6,3.0,10.9,90.3,Copenhagen,Denmark,13,466
+H&M,Retailing,16.3,2.3,8.7,61.6,Stockholm,Sweden,14,489
+Danske Bank,Banking,20.0,0.3,597.8,15.8,Copenhagen,Denmark,15,498
+Sampo Group,Insurance,7.2,1.3,38.3,16.3,Helsinki,Finland,16,503
+Norsk Hydro,Industrial,16.3,1.1,22.2,11.7,Oslo,Norway,17,504
+Atlas Copco,Capital goods,13.6,0.8,14.4,19.0,Stockholm,Sweden,18,528
+Carlsberg Group,Brewery,11.1,0.9,25.6,12.8,Copenhagen,Denmark,19,563
+Nokia,Technology,50.1,-1.5,44.6,32.8,Espoo,Finland,20,573
+Yara International,Chemical industry,13.0,2.0,12.1,13.3,Oslo,Norway,21,574
+Sandvik,Capital goods,13.6,0.8,14.4,19.0,Sandviken,Sweden,22,578
+Skanska,Construction,17.2,1.1,11.8,7.5,Stockholm,Sweden,23,707
+UPM-Kymmene,Materials,13.0,0.6,19.3,7.2,Helsinki,Finland,24,765
+SKF,Manufacturing,9.6,0.9,8.5,11.5,Gothenburg,Sweden,25,845
+Stora Enso,Manufacturing,14.2,0.4,16.7,6.0,Helsinki,Finland,26,902
+Svenska Cellulosa Aktiebolaget,Consumer Goods,11.8,0.1,20.2,12.5,Stockholm,Sweden,27,904
+Kone,Engineering,9.5,1.2,8.4,14.9,Espoo,Finland,28,937
+Electrolux,Manufacturing,14.7,0.3,10.7,6.8,Stockholm,Sweden,29,1098
+Assa Abloy,Manufacturing,6.1,0.6,8.1,11.2,Stockholm,Sweden,30,1101
+Investor,Diversified financials,2.8,-1.3,31.2,17.0,Stockholm,Sweden,32,1131
+Tele2,Telecommunications,5.9,0.7,6.4,8.6,Stockholm,Sweden,32,1170
+Metso,Capital goods,8.6,0.5,8.4,7.3,Helsinki,Finland,33,1175
+Autoliv,Automotive,8.2,0.6,6.1,6.2,Stockholm,Sweden,34,1226
+Orkla Group,Media,10.2,-0.1,11.1,8.2,Oslo,Norway,35,1254
+Kinnevik,Investment,1.3,1.0,10.2,6.3,Stockholm,Sweden,36,1297
+Storebrand,Insurance,5.6,0.1,67.2,2.4,Oslo,Norway,37,1363
+TDC A/S,Telecommunications,4.6,0.5,11.4,6.0,Copenhagen,Denmark,38,1373
+OP-Pohjola Group,Financial services,4.9,0.3,53.3,3.7,Helsinki,Finland,39,1376
+Aker Solutions,Engineering,6.1,0.9,5.6,4.5,Oslo,Norway,40,1388
+Gjensidige,Insurance,3.6,0.5,14.7,5.9,Oslo,Norway,41,1416
+L E Lundbergföretagen,Investment,3.3,0.7,12.5,4.2,Stockholm,Sweden,42,1481
+Alfa Laval,Manufacturing,4.2,0.5,4.8,8.7,Lund,Sweden,43,1488
+Neste,Oil refining,20.0,0.2,9.4,3.1,Espoo,Finland,44,1495
+Wärtsilä,Manufacturing,5.6,0.6,5.8,7.2,Helsinki,Finland,45,1506
+Boliden AB,Mining,5.8,0.5,5.5,4.6,Stockholm,Sweden,46,1619
+Jyske Bank,Banking,1.6,0.1,47.2,2.4,Silkeborg,Denmark,47,1686
+Swedish Match,Tobacco,1.7,0.4,2.1,8.1,Stockholm,Sweden,48,1750
+Hexagon AB,Technology,2.8,0.4,6.8,7.0,Stockholm,Sweden,49,1816
+Nokian Tyres,Manufacturing,1.9,0.4,2.4,6.4,Nokia,Finland,50,1868
+Kesko,Retail,12.3,0.2,5.4,3.2,Helsinki,Finland,51,1883
+Novozymes,Health care,1.8,0.3,2.4,7.9,Copenhagen,Denmark,52,1889
+Sydbank,Banking,1.0,0.0,26.8,1.4,Aabenraa,Denmark,53,1929
+Getinge Group,Medical technology,3.2,0.4,6.0,6.6,Getinge,Sweden,54,1935
+Coloplast,Medical equipment,1.8,0.3,1.6,7.3,Copenhagen,Denmark,55,1937
+Vestas,Manufacturing,7.6,-0.2,9.6,2.3,Aarhus,Denmark,56,1948
