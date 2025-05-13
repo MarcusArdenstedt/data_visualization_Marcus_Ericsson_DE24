@@ -10,3 +10,4 @@ if __name__=="__main__":
     Gui(pages = pages, css_file="assets/main.css").run(
         dark_mode=False, use_reloader=False, port=8080
     )
+    
