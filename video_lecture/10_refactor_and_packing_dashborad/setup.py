@@ -10,7 +10,7 @@ setup(
     description="""
     This page is used for creating YH dashboard in taipy""",
     author= "Marcus",
-    author_email= "ardenstedt16@gmail.com",
+    author_email= "marcus.ericsson_92@icloud.com",
     install_requires = ["pandas", "taipy", "duckdb", "openpyxl"],
     packages= find_packages(exclude=("test*", "exploration", "assets", "data"))
 )
